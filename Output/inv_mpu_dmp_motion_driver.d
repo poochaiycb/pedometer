@@ -1,0 +1,10 @@
+..\..\output\inv_mpu_dmp_motion_driver.o: ..\..\User\mpu6050\eMPL\inv_mpu_dmp_motion_driver.c
+..\..\output\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\..\output\inv_mpu_dmp_motion_driver.o: ..\..\User\./mpu6050/eMPL/inv_mpu.h
+..\..\output\inv_mpu_dmp_motion_driver.o: ..\..\User\./mpu6050/eMPL/inv_mpu_dmp_motion_driver.h
+..\..\output\inv_mpu_dmp_motion_driver.o: ..\..\User\./mpu6050/eMPL/dmpKey.h
+..\..\output\inv_mpu_dmp_motion_driver.o: ..\..\User\./mpu6050/eMPL/dmpmap.h
